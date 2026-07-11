@@ -1,23 +1,22 @@
 class Solution {
 public:
-    int f(int ind, int prev, vector<int>& nums, vector<vector<int>>& dp)
-    {
-        int n = nums.size();
-        if(ind == n) return 0;
-
-        if(dp[ind][prev+1]!=-1) return dp[ind][prev+1];
-        int len = f(ind+1, prev, nums, dp);
-
-        if(prev==-1 || nums[ind]>nums[prev])
-        {
-            len = max(len, 1+f(ind+1, ind, nums, dp));
-        }
-
-        return dp[ind][prev+1]= len;
-    }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(n+1,-1));
-        return f(0, -1, nums, dp);
+        vector<int> temp;
+        temp.push_back(nums[0]);
+
+        for(int i=1;i<n;i++)
+        {
+            if(nums[i]>temp.back())
+            {
+                temp.push_back(nums[i]);
+            }
+            else
+            {
+                auto ind = lower_bound(temp.begin(), temp.end(), nums[i]);
+                *ind = nums[i];
+            }
+        }
+        return temp.size();
     }
 };
