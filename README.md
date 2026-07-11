@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shreyanslunkad68/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyanslunkad68/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shreyanslunkad68/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/shreyanslunkad68/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## String
 |  |
 | ------- |
