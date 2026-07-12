@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyanslunkad68/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0022-generate-parentheses) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/shreyanslunkad68/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0022-generate-parentheses) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/shreyanslunkad68/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
