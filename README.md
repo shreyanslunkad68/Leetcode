@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shreyanslunkad68/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/shreyanslunkad68/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shreyanslunkad68/Leetcode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/shreyanslunkad68/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shreyanslunkad68/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shreyanslunkad68/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
