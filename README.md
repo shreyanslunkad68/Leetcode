@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreyanslunkad68/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyanslunkad68/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/shreyanslunkad68/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/shreyanslunkad68/Leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanslunkad68/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreyanslunkad68/Leetcode/tree/master/0169-majority-element) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shreyanslunkad68/Leetcode/tree/master/0130-surrounded-regions) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyanslunkad68/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyanslunkad68/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -158,11 +160,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shreyanslunkad68/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/shreyanslunkad68/Leetcode/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyanslunkad68/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shreyanslunkad68/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/shreyanslunkad68/Leetcode/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/shreyanslunkad68/Leetcode/tree/master/1260-shift-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/shreyanslunkad68/Leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
