@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shreyanslunkad68/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shreyanslunkad68/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shreyanslunkad68/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyanslunkad68/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/shreyanslunkad68/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/shreyanslunkad68/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shreyanslunkad68/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanslunkad68/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/shreyanslunkad68/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/shreyanslunkad68/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyanslunkad68/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/shreyanslunkad68/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
