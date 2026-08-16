@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shreyanslunkad68/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0877-stone-game](https://github.com/shreyanslunkad68/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/shreyanslunkad68/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shreyanslunkad68/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shreyanslunkad68/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/shreyanslunkad68/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shreyanslunkad68/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shreyanslunkad68/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shreyanslunkad68/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyanslunkad68/Leetcode/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/shreyanslunkad68/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/shreyanslunkad68/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -273,10 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shreyanslunkad68/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shreyanslunkad68/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -285,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shreyanslunkad68/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
