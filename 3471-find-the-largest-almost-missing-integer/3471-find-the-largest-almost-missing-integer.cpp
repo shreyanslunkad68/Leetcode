@@ -3,19 +3,14 @@ public:
     int largestInteger(vector<int>& nums, int k) {
         int n = nums.size();
 
-        // Case 1
-        if (k == n) {
-            return *max_element(nums.begin(), nums.end());
-        }
-
-        unordered_map<int, int> freq;
-
-        for (int x : nums) {
-            freq[x]++;
-        }
-
-        // Case 2
+        // Case 1: every element is a subarray
         if (k == 1) {
+            unordered_map<int, int> freq;
+
+            for (int x : nums) {
+                freq[x]++;
+            }
+
             int ans = -1;
 
             for (auto &[x, count] : freq) {
@@ -27,14 +22,39 @@ public:
             return ans;
         }
 
-        // Case 3
+        // Case 2: entire array is one subarray
+        if (k == n) {
+            return *max_element(nums.begin(), nums.end());
+        }
+
+        // Case 3: 1 < k < n
         int ans = -1;
 
-        if (freq[nums[0]] == 1) {
+        // Check first element
+        bool firstUnique = true;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] == nums[0]) {
+                firstUnique = false;
+                break;
+            }
+        }
+
+        if (firstUnique) {
             ans = max(ans, nums[0]);
         }
 
-        if (freq[nums[n - 1]] == 1) {
+        // Check last element
+        bool lastUnique = true;
+
+        for (int i = 0; i < n - 1; i++) {
+            if (nums[i] == nums[n - 1]) {
+                lastUnique = false;
+                break;
+            }
+        }
+
+        if (lastUnique) {
             ans = max(ans, nums[n - 1]);
         }
 
