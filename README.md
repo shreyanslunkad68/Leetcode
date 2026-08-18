@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/shreyanslunkad68/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2029-stone-game-ix](https://github.com/shreyanslunkad68/Leetcode/tree/master/2029-stone-game-ix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shreyanslunkad68/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreyanslunkad68/Leetcode/tree/master/0169-majority-element) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shreyanslunkad68/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyanslunkad68/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
