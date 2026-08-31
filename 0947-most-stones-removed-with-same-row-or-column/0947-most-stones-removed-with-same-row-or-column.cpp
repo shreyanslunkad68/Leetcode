@@ -1,65 +1,54 @@
 class Solution {
 public:
     vector<int> parent, rank;
+    int find(int x){
+        if(parent[x]==x) return x;
 
-    int find(int node)
-    {
-        if(node==parent[node]) return node;
-
-        return parent[node] = find(parent[node]);
+        return parent[x] = find(parent[x]);
     }
-    
-    void Union(int x, int y)
-    {
-        int px = find(x);
-        int py = find(y);
 
-        if(px == py) return;
+    void unite(int a, int b){
+        int pa = find(a);
+        int pb = find(b);
 
-        if(rank[px]<rank[py])
-        {
-            parent[px] = py;
+        if(pa == pb) return;
+
+        if(rank[pa]<rank[pb]){
+            parent[pa] = pb;
         }
-        else if(rank[py]<rank[px])
-        {
-            parent[py] = px;
+        else if(rank[pb]<rank[pa]){
+            parent[pb] = pa;
         }
-        else
-        {
-            parent[px] = py;
-            rank[py]++;
+        else{
+            parent[pa] = pb;
+            rank[pb]++;
         }
     }
 
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
-        int size = 20005;
-        parent.resize(size);
-        rank.assign(size, 0);
-        unordered_set<int> nodes;
+        int offset = 20002;
+        int size = 30003;
 
-        for(int i = 0; i < size; i++) parent[i] = i;
-        int cnt = 0;
+        parent.resize(size);    
+        rank.resize(size, 0);
 
-        for(auto it: stones)
-        {
-            int u = it[0];
-            int v = it[1] + 10001;
+        for(int i=0; i<size; i++) parent[i] = i;
 
-            Union(u, v);
+        for(auto s: stones){
+            int row = s[0];
+            int col = s[1] + offset;
 
-            nodes.insert(u);
-            nodes.insert(v);
-        } 
+            unite(row, col);
+        }    
 
-        int components = 0;
+        unordered_set<int> components;
 
-        for(int node : nodes)
-        {
-            if(find(node) == node)
-                components++;
+        for(auto s: stones){
+            int row = s[0];
+            components.insert(find(row));
         }
 
-        return n - components;
+        return n - components.size(); 
     }
 };
