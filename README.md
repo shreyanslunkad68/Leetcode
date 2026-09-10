@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyanslunkad68/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shreyanslunkad68/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shreyanslunkad68/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreyanslunkad68/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/shreyanslunkad68/Leetcode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shreyanslunkad68/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shreyanslunkad68/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreyanslunkad68/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyanslunkad68/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
