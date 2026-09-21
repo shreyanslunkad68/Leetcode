@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/shreyanslunkad68/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyanslunkad68/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanslunkad68/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shreyanslunkad68/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanslunkad68/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shreyanslunkad68/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shreyanslunkad68/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanslunkad68/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
