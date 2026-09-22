@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyanslunkad68/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/shreyanslunkad68/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyanslunkad68/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3525-find-x-value-of-array-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanslunkad68/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shreyanslunkad68/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
