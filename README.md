@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shreyanslunkad68/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
+| [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreyanslunkad68/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shreyanslunkad68/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shreyanslunkad68/Leetcode/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/shreyanslunkad68/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/shreyanslunkad68/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreyanslunkad68/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyanslunkad68/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/shreyanslunkad68/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shreyanslunkad68/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanslunkad68/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyanslunkad68/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shreyanslunkad68/Leetcode/tree/master/0169-majority-element) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shreyanslunkad68/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyanslunkad68/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/shreyanslunkad68/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shreyanslunkad68/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyanslunkad68/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyanslunkad68/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/shreyanslunkad68/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1631-path-with-minimum-effort](https://github.com/shreyanslunkad68/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
