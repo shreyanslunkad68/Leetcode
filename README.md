@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/shreyanslunkad68/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/shreyanslunkad68/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/shreyanslunkad68/Leetcode/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shreyanslunkad68/Leetcode/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/shreyanslunkad68/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/shreyanslunkad68/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/shreyanslunkad68/Leetcode/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shreyanslunkad68/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/shreyanslunkad68/Leetcode/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyanslunkad68/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyanslunkad68/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
