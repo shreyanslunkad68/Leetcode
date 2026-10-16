@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreyanslunkad68/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shreyanslunkad68/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyanslunkad68/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3525-find-x-value-of-array-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanslunkad68/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyanslunkad68/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyanslunkad68/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyanslunkad68/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/shreyanslunkad68/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreyanslunkad68/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreyanslunkad68/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyanslunkad68/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Combinatorics
 |  |
 | ------- |
