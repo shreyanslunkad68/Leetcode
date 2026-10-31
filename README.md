@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/shreyanslunkad68/Leetcode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shreyanslunkad68/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shreyanslunkad68/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/shreyanslunkad68/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Memoization
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shreyanslunkad68/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shreyanslunkad68/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3525-find-x-value-of-array-ii](https://github.com/shreyanslunkad68/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/shreyanslunkad68/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreyanslunkad68/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreyanslunkad68/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shreyanslunkad68/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/shreyanslunkad68/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shreyanslunkad68/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3665-twisted-mirror-path-count](https://github.com/shreyanslunkad68/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Union-Find
 |  |
 | ------- |
